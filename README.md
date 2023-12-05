@@ -1,2 +1,3 @@
-# GPHS-426_RS
-The repo for GPHS-426 remote sensing lectures.
+# GPHS-426 Remote Sensing
+
+This repo is used to store course material for the GPHS-426 remote sensing lectures.
